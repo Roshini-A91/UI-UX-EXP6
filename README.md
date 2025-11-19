@@ -1,5 +1,6 @@
 # UI-UX-Experiment6
-
+# Name: ROSHINI A
+# Reg.No: 212224230233
 ## Aim:
 To practice solution ideation, user story creation, scenario development, flow mapping, and information architecture design to improve user experience through structured UX design activities.
 
